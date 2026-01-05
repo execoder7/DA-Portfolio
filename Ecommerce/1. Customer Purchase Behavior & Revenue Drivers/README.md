@@ -1,5 +1,7 @@
 # Customer Sales Analysis Dataset
 
+Dataset: [Link](https://www.kaggle.com/datasets/carrie1/ecommerce-data?select=data.csv") 
+
 ## Key Points
 - Customers are mostly wholesalers.
 - Dataset period: 01/12/2010 - 09/12/2011.
